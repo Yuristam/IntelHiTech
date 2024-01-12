@@ -8,8 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Common\Validations\" />
-    <Folder Include="Enums\Robots\" />
-    <Folder Include="Enums\Vehicles\" />
     <Folder Include="Users\" />
   </ItemGroup>
 

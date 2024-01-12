@@ -1,4 +1,4 @@
-namespace IntelHiTech.WebApp.Models
+namespace IntelHiTech.WebApp.ViewModels
 {
     public class ErrorViewModel
     {

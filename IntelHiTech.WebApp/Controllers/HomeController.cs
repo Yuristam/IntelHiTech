@@ -1,4 +1,4 @@
-﻿using IntelHiTech.WebApp.Models;
+﻿using IntelHiTech.WebApp.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 

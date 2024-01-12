@@ -5,6 +5,12 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntelHiTech.WebApp", "IntelHiTech.WebApp\IntelHiTech.WebApp.csproj", "{94E2D0FC-F296-4F1D-AA51-3E1E14E7258D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntelHiTech.Domain", "IntelHiTech.Domain\IntelHiTech.Domain.csproj", "{94DEA7DF-342B-437C-A389-7EB661848E86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntelHiTech.Application", "IntelHiTech.Application\IntelHiTech.Application.csproj", "{A3E4911E-5AB3-455B-9DD6-90FF641EAFF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntelHiTech.Infrastructure", "IntelHiTech.Infrastructure\IntelHiTech.Infrastructure.csproj", "{996588F8-D16A-4ED9-BDE3-CF8740F85EFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{94E2D0FC-F296-4F1D-AA51-3E1E14E7258D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94E2D0FC-F296-4F1D-AA51-3E1E14E7258D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94E2D0FC-F296-4F1D-AA51-3E1E14E7258D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94DEA7DF-342B-437C-A389-7EB661848E86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94DEA7DF-342B-437C-A389-7EB661848E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94DEA7DF-342B-437C-A389-7EB661848E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94DEA7DF-342B-437C-A389-7EB661848E86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3E4911E-5AB3-455B-9DD6-90FF641EAFF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E4911E-5AB3-455B-9DD6-90FF641EAFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E4911E-5AB3-455B-9DD6-90FF641EAFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E4911E-5AB3-455B-9DD6-90FF641EAFF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{996588F8-D16A-4ED9-BDE3-CF8740F85EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{996588F8-D16A-4ED9-BDE3-CF8740F85EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{996588F8-D16A-4ED9-BDE3-CF8740F85EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{996588F8-D16A-4ED9-BDE3-CF8740F85EFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

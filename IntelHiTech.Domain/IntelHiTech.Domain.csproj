@@ -8,20 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Common\Validations\" />
-    <Folder Include="Entities\Appliances\CleaningAppliances\" />
-    <Folder Include="Entities\Appliances\KitchenAppliances\" />
-    <Folder Include="Entities\Appliances\MediaAppliances\" />
-    <Folder Include="Entities\Companies\" />
-    <Folder Include="Entities\Devices\ArtDevices\" />
-    <Folder Include="Entities\Devices\ComputerParts\" />
-    <Folder Include="Entities\Devices\EducationalDevices\" />
-    <Folder Include="Entities\Devices\ElectronicDevices\" />
-    <Folder Include="Entities\Devices\SportDevices\" />
-    <Folder Include="Entities\HouseTools\BuildingTools\" />
-    <Folder Include="Entities\HouseTools\Illuminations\" />
-    <Folder Include="Entities\Robots\Bots\" />
-    <Folder Include="Entities\Robots\ServiceRobots\" />
-    <Folder Include="Entities\Vehicles\" />
     <Folder Include="Enums\Robots\" />
     <Folder Include="Enums\Vehicles\" />
     <Folder Include="Users\" />
